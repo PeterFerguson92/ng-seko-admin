@@ -86,7 +86,7 @@ section .contentBx .formBx .inputBx input {
   padding: 10px 20px;
   outline: none;
   font-weight: 400;
-  border: 1px solid rosybrown ;
+  border: 1px solid #0f172a ;
   font-size: 16px;
   letter-spacing: 1px;
   color: #607d8b;
@@ -97,7 +97,7 @@ section .contentBx .formBx .inputBx input {
 
 section .contentBx .formBx .inputBx input[type="submit"] {
   width: 80%;
-  background:rgb(167, 74, 3);
+  background:#0f172a;
   color: white;
   outline: none;
   border: none;
@@ -110,7 +110,7 @@ section .contentBx .formBx .inputBx input[type="submit"] {
 
 
 section .contentBx .formBx .inputBx p {
- color: rgb(167, 74, 3);
+ color: #0f172a(167, 74, 3);
 
  }
 
